@@ -4,3 +4,6 @@
 /eln-cache
 /elpa
 /var
+/history
+*.elc
+/places
