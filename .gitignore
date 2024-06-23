@@ -8,3 +8,4 @@
 *.elc
 /places
 /auto-save-list/
+/transient/history.el
